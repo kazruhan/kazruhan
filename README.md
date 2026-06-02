@@ -104,7 +104,7 @@ An intuitive note-taking web application focused on simplicity, productivity, an
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazruhan&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
 </p>
 
 ---
