@@ -1,84 +1,128 @@
-# Hi, I'm MD Ruhan Karim 👋
+<div align="center">
 
-🎓 Computer Science Student at Satbayev University  
-🌍 Bangladeshi Student Studying in Kazakhstan  
-💻 Aspiring Software Developer  
-🚀 Passionate about Web Development, Open Source, and AI Technologies
+# 👋 Hi, I'm MD Ruhan Karim
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Future+Software+Engineer;Passionate+About+Web+Development;Building+Projects+and+Learning+Every+Day;Exploring+AI+and+Open+Source" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently studying Computer Science at Satbayev University
-- 📚 Constantly learning and improving my programming skills
-- 💡 Interested in:
-  - Web Development
-  - Artificial Intelligence
-  - Software Engineering
-  - Open Source Projects
-  - UI/UX Design
-- 🎨 Skilled in Graphics Design and Video Editing
-- 🛠 Learning JavaScript, C++, Git, and Modern Development Tools
+🎓 Computer Science Student at Satbayev University
+
+🌍 Bangladeshi student studying in Kazakhstan
+
+💻 Passionate about:
+- Web Development
+- Artificial Intelligence
+- Open Source
+- Software Engineering
+
+🎨 Additional skills:
+- Graphics Design
+- Video Editing
+- Project Management
+
+📚 Currently learning:
+- JavaScript
+- C++
+- Data Structures & Algorithms
+- Modern Web Technologies
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp" />
+</p>
 
----
+### Tools & Platforms
 
-## 📜 Certifications
-
-- Master Git and GitHub – Beginner to Expert
-- VSCode Shortcuts & Extensions for Web Developers
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Current Focus
 
-- Advanced JavaScript
-- Modern Web Development
-- Data Structures & Algorithms
-- Discrete Mathematics
-- Software Architecture
-
----
-
-## 🎯 Goals for 2026
-
-- Build impactful software products
-- Contribute to open-source projects
-- Launch successful SaaS applications
-- Strengthen problem-solving skills
-- Grow as a full-stack developer
+```text
+✓ Improving JavaScript Skills
+✓ Building Real Projects
+✓ Learning Software Development Best Practices
+✓ Exploring AI Tools & Automation
+```
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazruhan&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazruhan&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/mdruhankarim
-- LinkedIn: https//linkedin.com/in/mdruhanksrim
-- Email: ruhan@duck.com
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-> "Learning never exhausts the mind. It only expands possibilities."
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 📝 NoteHand
+
+An intuitive note-taking web application focused on simplicity, productivity, and user experience.
+
+**Tech Used:**
+- JavaScript
+- HTML
+- CSS
+- Local Storage
+
+🔗 Project Link: https://notehand.netlify.app
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazruhan&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mdruhankarim">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Every expert was once a beginner who refused to quit."
+
+<img src="https://komarev.com/ghpvc/?username=kazruhan&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
